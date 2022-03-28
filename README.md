@@ -1,4 +1,4 @@
-Some home stuff from me with HTML and CSS coding.
+Some home stuff with HTML and CSS coding.
 
 
 ## :boy: Author - [Mihail Stoyanov](https://github.com/warhorse778)
